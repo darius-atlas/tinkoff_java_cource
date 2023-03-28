@@ -1,0 +1,8 @@
+app.test: 1
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    enabled: true
+telegram:
+  bot-token: 5036172056:AAFxdQ5wZ-FD_oUHBjANA4dxwHvniYmZDCo
