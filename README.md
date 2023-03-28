@@ -4,6 +4,9 @@ Scrapper   <--HTTP--> Bot <br>
 Scrapper   <-----> RabbitMQ <br>
 Bot        <-----> RabbitMQ <br>
 
+## Usage
+Swagger UI is available at http://localhost:8080/swagger-ui
+
 ## Docker Compose desc
 
 This Docker Compose file consists of the following services:
